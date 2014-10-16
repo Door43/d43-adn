@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[adn:home|Door43 (adn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-adn|d43-adn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-adn/archive/master.zip|d43-adn.zip]]
+
+**Recent Changes**
+{{changes>ns = adn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/adn|Ethnologue data]]
+
